@@ -1,15 +1,20 @@
+# Hi, I'm Abhishek 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekmill) 
+**Senior Three.js Developer** building interactive 3D experiences for the web.
 
-# 💻 Tech Stack:
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishekmill&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekmill&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmill&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 🧊 4+ years with **Three.js, WebGL, React Three Fiber** and **React**
+- 🏢 Three.js Developer at **Tata Communications**
+- 🛠️ Also comfortable on the backend: Node.js, Express, MongoDB
+- 💼 Open to **freelance** 3D / WebGL projects
+- 📍 Bhilai, India
 
----
-[![](https://visitcount.itsvg.in/api?id=abhishekmill&icon=0&color=0)](https://visitcount.itsvg.in)
+### Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Tech stack](https://skillicons.dev/icons?i=threejs,react,js,nodejs,express,mongodb,vercel,git,gitlab&perline=9)](https://skillicons.dev)
+
+### Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abhishekmill)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
